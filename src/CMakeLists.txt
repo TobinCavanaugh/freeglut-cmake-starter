@@ -6,12 +6,12 @@ set_target_properties(Application PROPERTIES
     C_EXTENSIONS OFF
 )
 
-target_sources(Application PRIVATE
-    main.c
-)
-
 target_compile_options(Application PRIVATE
     $<$<C_COMPILER_ID:Clang,AppleClang,GNU>:-Wall -Wextra -Wpedantic -Werror>
     $<$<C_COMPILER_ID:MSVC>:/W4 /WX>
+)
+
+target_sources(Application PRIVATE
+    main.c
 )
 

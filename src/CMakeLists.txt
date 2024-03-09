@@ -15,3 +15,7 @@ target_sources(Application PRIVATE
     main.c
 )
 
+target_link_libraries(Application PRIVATE
+    freeglut_static
+)
+

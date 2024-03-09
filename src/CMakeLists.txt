@@ -15,6 +15,10 @@ target_sources(Application PRIVATE
     main.c
 )
 
+target_include_directories(Application PRIVATE
+    ${LIB_DIR}/freeglut/include
+)
+
 target_link_libraries(Application PRIVATE
     freeglut_static
 )

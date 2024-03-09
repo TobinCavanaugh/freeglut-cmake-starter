@@ -9,6 +9,7 @@ FreeGLUT project template using CMake.
 * [Generating the project](#generate-project)
   * [Code::Blocks](#codeblocks)
   * [Visual Studio](#visual-studio)
+* [Building](#building)
 
 ## Prerequisites
 
@@ -53,7 +54,7 @@ $ cmake -S . -B build -G "CodeBlocks - MinGW Makefiles" -D CMAKE_C_COMPILER=gcc
 
 Note: You will need to ensure that your PATH contains `gcc`.
 
-## Visual Studio
+### Visual Studio
 
 To generate a Visual Studio project, you will need to tell CMake what version of Visual Studio you will want to use.
 
@@ -66,3 +67,17 @@ $ cmake -S . -B build -G "Visual Studio 17 2022"
 ```
 
 In the `build` directory, you will see that the Visual Studio 2022 project has been generated.
+
+## Building
+
+To build, you can simply build using your IDE as CMake will have generated the project files for you now. 
+
+Note: To run the program with your IDE, ensure you change your startup target to `Application`.
+
+Otherwise, you can also run this command:
+
+```bash
+$ cmake --build build
+```
+
+The compiled executable will now be in `build/bin`.

@@ -1,0 +1,5 @@
+
+dc:S5276Z"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(³ ´³8‡ãÚ«ü1
+Wc:S1199@"8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ8ƒ¸°ü1
+Wc:S5825"8Define the type with "typedef" instead of using a macro.(–ò½ìÿÿÿÿÿ8¤ãÚ«ü1
+tc:S5350"YMake the type of this variable a pointer-to-const. The current type of "tmp" is "char *".(¼Ü±¼8‡¸°ü1

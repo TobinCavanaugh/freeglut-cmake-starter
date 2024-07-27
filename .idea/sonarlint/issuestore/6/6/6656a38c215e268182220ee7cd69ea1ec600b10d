@@ -1,0 +1,66 @@
+
+Mc:S1135À"4Complete the task associated to this "TODO" comment.(î‚¯ùşÿÿÿÿ
+Mc:S1135ø"4Complete the task associated to this "TODO" comment.(¶öÇ¶üÿÿÿÿ
+Hc:S1135¢"4Complete the task associated to this "TODO" comment.(¯
+Hc:S1135ñ"4Complete the task associated to this "TODO" comment.(¯
+Mc:S1135ò"4Complete the task associated to this "TODO" comment.(öÚÁÕúÿÿÿÿ
+Hc:S1135ô"4Complete the task associated to this "TODO" comment.(²§ğ³
+Hc:S1135ª"4Complete the task associated to this "TODO" comment.(úÊæ±
+Hc:S1135™"4Complete the task associated to this "TODO" comment.(µ‚Ğû
+Hc:S1135«"4Complete the task associated to this "TODO" comment.(µ‚Ğû
+*c:S905@"expression result unused(¡×ğ
+/c:S905A"expression result unused(Ö¯çıÿÿÿÿ
+2c:S1763X"'return' will never be executed(°îØ±
+4c:S1763Ó"code will never be executed(’ÓÖéÿÿÿÿÿ
+4c:S1763ô"code will never be executed(Óé¸úùÿÿÿÿ
+4c:S1763ş"code will never be executed(ˆÎ«şøÿÿÿÿ
+.c:S1481œ"unused variable 'str'(¬“®ııÿÿÿÿ
+oc:S5276Š"Vimplicit conversion loses integer precision: 'wint_t' (aka 'unsigned short') to 'char'(İÓÀãøÿÿÿÿ
+jc:S5276Œ"Vimplicit conversion loses integer precision: 'wint_t' (aka 'unsigned short') to 'char'(¬¹¢”
+Xc:S1768Ã"?result of comparison of unsigned expression >= 0 is always true(Óßışÿÿÿÿ
++c:S905¤"expression result unused(ä€İ«
+Ac:S935‡	")non-void function does not return a value(İÓ§ÿÿÿÿÿ
+uc:S5350/"]Make the type of this variable a pointer-to-const. The current type of "lastSrc" is "char *".(»ÍêŒúÿÿÿÿ
+Ac:S5955n")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+>c:S5955Ñ"*Declare the variable "gi" inside the loop.(Ô”Ú
+rc:S995è"ZMake the type of this parameter a pointer-to-const. The current type of "sub" is "char *".(ºì®€üÿÿÿÿ
+Pc:S5825"8Define the type with "typedef" instead of using a macro.(–ò½ìÿÿÿÿÿ
+Bc:S5955€")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+<c:S5955…")Declare the variable "c" inside the loop.(ÇÒ¥:
+Jc:S886€"2Refactor this loop so that it is less error-prone.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955¸")Declare the variable "i" inside the loop.(÷“¿ˆøÿÿÿÿ
+8c:S923³" Remove use of ellipsis notation.(İ”«ñıÿÿÿÿ
+Hc:S5955Æ"/Declare the variable "primary" inside the loop.(ş£éúÿÿÿÿ
+Yc:S924×"FReduce the number of nested "break" statements from 2 to 1 authorized.(”õÑ
+Bc:S5955ö")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955‚")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+mc:S995ş"ZMake the type of this parameter a pointer-to-const. The current type of "str" is "fstr *".(ßäàì
+Bc:S5955İ")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955æ")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955…")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+rc:S5350œ"YMake the type of this variable a pointer-to-const. The current type of "str" is "fstr *".(¬“®ııÿÿÿÿ
+8c:S923™" Remove use of ellipsis notation.(Íòáòüÿÿÿÿ
+2c:S923­" Remove use of ellipsis notation.(÷«ÂK
+mc:S995Î"ZMake the type of this parameter a pointer-to-const. The current type of "buf" is "char *".(şÍÙá
+8c:S923ä" Remove use of ellipsis notation.(ÊàË‹úÿÿÿÿ
+Bc:S5955´")Declare the variable "i" inside the loop.(ûƒıØıÿÿÿÿ
+Bc:S5955Ã")Declare the variable "i" inside the loop.(Óßışÿÿÿÿ
+Bc:S5955Ó")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955Û")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955ã")Declare the variable "i" inside the loop.(«ÔÒ˜úÿÿÿÿ
+Bc:S5955÷")Declare the variable "i" inside the loop.(ÕŞÁøÿÿÿÿ
+pc:S995é"XMake the type of this parameter a pointer-to-const. The current type of "b" is "fstr *".(÷…š¨ıÿÿÿÿ
+pc:S995€"XMake the type of this parameter a pointer-to-const. The current type of "a" is "fstr *".(ãò¤üÿÿÿÿ
+;c:S1172‡	""Remove the unused parameter "str".(İÓ§ÿÿÿÿÿ
+rc:S995‡	"ZMake the type of this parameter a pointer-to-const. The current type of "str" is "fstr *".(İÓ§ÿÿÿÿÿ
+mc:S995¹	"ZMake the type of this parameter a pointer-to-const. The current type of "str" is "fstr *".(í¹¹
+sc:S995¼	"[Make the type of this parameter a pointer-to-const. The current type of "base" is "char *".(Í½¿Œøÿÿÿÿ
+rc:S995¼	"ZMake the type of this parameter a pointer-to-const. The current type of "sub" is "char *".(Í½¿Œøÿÿÿÿ
+nc:S995Ñ	"[Make the type of this parameter a pointer-to-const. The current type of "base" is "fstr *".(êí‘ì
+Lc:S5488œ"3Call to 'realloc' has an allocation size of 0 bytes(ñûÚûÿÿÿÿ
+[c:S3519Ç"GOut of bound memory access (access exceeds upper limit of memory block)(£ºÈ«
+Lc:S5488Í"3Call to 'realloc' has an allocation size of 0 bytes(¢•¢æşÿÿÿÿ
+Vc:S1854œ"=Value stored to 'str' during its initialization is never read(¬“®ııÿÿÿÿ
+Ec:S3584",Potential leak of memory pointed to by 'str'(ÌşáÈüÿÿÿÿ
+[c:S3519Ä"GOut of bound memory access (access exceeds upper limit of memory block)(Ÿƒ¬Š
+Fc:S5488ß"2Call to 'malloc' has an allocation size of 0 bytes(ÂÁ¤¬
